@@ -1,4 +1,4 @@
-Lapse
+#Lapse
 
 Lapse is a lightweight Android utility that helps you view when applications on your device were installed and last updated.
 
@@ -6,7 +6,7 @@ The app presents application information in a clean, searchable interface, displ
 
 Built with Material You design principles, Lapse focuses on clarity, speed, and usability while remaining completely offline.
 
-Features
+##Features
 
 * View installation dates for installed applications.
 * View the most recent update dates for applications.
@@ -16,11 +16,11 @@ Features
 * Fully offline operation.
 * Lightweight and battery-friendly.
 
-Permissions
+##Permissions
 
 Lapse requests only the minimal permissions required to access application metadata available on your device and display installation and update information.
 
-Privacy
+##Privacy
 
 Lapse is built with a strict privacy-first architecture:
 
@@ -29,18 +29,18 @@ Lapse is built with a strict privacy-first architecture:
 * Fully Offline: All processing happens locally on your device.
 * No Account Required: No sign-in, cloud sync, or online services.
 
-Installation
+##Installation
 
 1. Download the latest APK from the Releases section.
 2. Enable Install unknown apps for your browser or file manager if prompted.
 3. Install the APK.
 4. Open Lapse to instantly view installation and update information for your applications.
 
-Compatibility
+##Compatibility
 
 Designed exclusively for Android 10 and newer devices.
 
-Screenshots
+##Screenshots
 
 <p align="center"><!-- Screenshots will be added here --></p>License
 
