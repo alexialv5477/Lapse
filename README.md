@@ -1,12 +1,22 @@
-# Lapse 📱
+<p align="center">
+  <img src="https://raw.githubusercontent.com/musaddiqbaluch/Lapse/main/ic_launcher.png" width="120" alt="Lapse Logo"/>
+</p>
 
-[![Android Version](https://img.shields.io/badge/Android-10.0%20%2B-green.svg?style=flat-square)](https://developer.android.com)
-[![Privacy](https://img.shields.io/badge/Privacy-Fully%20Offline-blue.svg?style=flat-square)](#-privacy)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg?style=flat-square)](#-license)
+<h1 align="center">Lapse</h1>
 
-Lapse is a lightweight Android utility designed to help you track exactly when applications on your device were installed and last updated. 
+<p align="center">
+  <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Android-10.0%20%2B-green.svg?style=flat-square" alt="Android Version"/></a>
+  <a href="#-privacy-&amp;-security"><img src="https://img.shields.io/badge/Privacy-Fully%20Offline-blue.svg?style=flat-square" alt="Privacy"/></a>
+  <a href="#-license"><img src="https://img.shields.io/badge/License-Proprietary-red.svg?style=flat-square" alt="License"/></a>
+</p>
 
-Built with modern **Material You** design principles, Lapse focuses on simplicity, speed, and usability while remaining completely offline.
+<p align="center">
+  <strong>Lapse</strong> is a lightweight Android utility designed to help you track exactly when applications on your device were installed and last updated.
+</p>
+
+<p align="center">
+  Built with modern <strong>Material You</strong> design principles, Lapse focuses on simplicity, speed, and usability while remaining completely offline.
+</p>
 
 ---
 
@@ -22,9 +32,10 @@ Built with modern **Material You** design principles, Lapse focuses on simplicit
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="SCREENSHOT_1_URL" width="260" alt="Lapse Screenshot 1" style="margin: 10px; border-radius: 8px;"/>
-  <img src="SCREENSHOT_2_URL" width="260" alt="Lapse Screenshot 2" style="margin: 10px; border-radius: 8px;"/>
-  <img src="SCREENSHOT_3_URL" width="260" alt="Lapse Screenshot 3" style="margin: 10px; border-radius: 8px;"/>
+  <img src="https://raw.githubusercontent.com/musaddiqbaluch/Lapse/main/Lapse-screenshot1.png" width="220" alt="Lapse Screenshot 1" style="margin: 5px; border-radius: 8px;"/>
+  <img src="https://raw.githubusercontent.com/musaddiqbaluch/Lapse/main/Lapse-screenshot2.png" width="220" alt="Lapse Screenshot 2" style="margin: 5px; border-radius: 8px;"/>
+  <img src="https://raw.githubusercontent.com/musaddiqbaluch/Lapse/main/Lapse-screenshot3.png" width="220" alt="Lapse Screenshot 3" style="margin: 5px; border-radius: 8px;"/>
+  <img src="https://raw.githubusercontent.com/musaddiqbaluch/Lapse/main/Lapse-screenshot4.png" width="220" alt="Lapse Screenshot 4" style="margin: 5px; border-radius: 8px;"/>
 </p>
 
 ---
